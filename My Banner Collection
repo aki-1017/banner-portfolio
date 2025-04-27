@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>バナー作品集</title>
+</head>
+<body>
+  <h1>My Banner Collection</h1>
+
+  <div>
+    <img src="img/wedding fair1.jpeg" alt="バナー1" width="300px">
+    <img src="img/wedding fair2.png" alt="バナー2" width="300px">
+    <img src="img/日本酒ソムリエ 入門講座.png" alt="バナー3" width="300px">
+  </div>
+
+</body>
+</html>
